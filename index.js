@@ -33,3 +33,5 @@ console.log(multiply(5, 4));
 const authenticationOnceMore = (a, b) => {
   console.log("succesfully authenticated once again");
 };
+
+console.log("testing is called");
