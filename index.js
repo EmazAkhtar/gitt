@@ -17,3 +17,8 @@ const authenticationAgain = (a, b) => {
 };
 console.log("menu bar added");
 console.log("navbar added");
+
+const subtract = (a, b) => {
+  return a - b;
+};
+console.log(subtract(5, 3));
