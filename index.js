@@ -18,3 +18,6 @@ const authenticationAgain = (a, b) => {
 const authenticationOnceAgain = (a, b) => {
   console.log("succesfully authenticated once again");
 };
+const authenticationOnceMore = (a, b) => {
+  console.log("succesfully authenticated once again");
+};
