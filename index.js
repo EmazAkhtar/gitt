@@ -9,3 +9,4 @@ console.log(add(3, 6));
 const darkmode = () => {
   console.log("switch on the dark mode");
 };
+console.log("menu bar added");
