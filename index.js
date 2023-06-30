@@ -25,3 +25,8 @@ const subtract = (a, b) => {
   return a - b;
 };
 console.log(subtract(5, 3));
+
+const multiply = (a, b) => {
+  return a * b;
+};
+console.log(multiply(5, 4));
