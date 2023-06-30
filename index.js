@@ -9,3 +9,6 @@ console.log(add(3, 6));
 const darkmode = () => {
   console.log("switch on the dark mode");
 };
+const authentication = (a, b) => {
+  console.log("succesfully authenticated");
+};
