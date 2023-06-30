@@ -9,5 +9,11 @@ console.log(add(3, 6));
 const darkmode = () => {
   console.log("switch on the dark mode");
 };
+const authentication = (a, b) => {
+  console.log("succesfully authenticated");
+};
+const authenticationAgain = (a, b) => {
+  console.log("succesfully authenticated");
+};
 console.log("menu bar added");
 console.log("navbar added");
