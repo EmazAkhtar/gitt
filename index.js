@@ -12,3 +12,6 @@ const darkmode = () => {
 const authentication = (a, b) => {
   console.log("succesfully authenticated");
 };
+const authenticationAgain = (a, b) => {
+  console.log("succesfully authenticated");
+};
