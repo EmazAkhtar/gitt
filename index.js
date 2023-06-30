@@ -15,6 +15,9 @@ const authentication = (a, b) => {
 const authenticationAgain = (a, b) => {
   console.log("succesfully authenticated");
 };
+const authenticationOnceAgain = (a, b) => {
+  console.log("succesfully authenticated once again");
+};
 console.log("menu bar added");
 console.log("navbar added");
 
