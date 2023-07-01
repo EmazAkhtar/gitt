@@ -36,3 +36,7 @@ const authenticationOnceMore = (a, b) => {
 
 console.log("testing is called");
 console.log("redirecing to payment gateway");
+
+const payment = () => {
+  console.log("payment gateway created");
+};
